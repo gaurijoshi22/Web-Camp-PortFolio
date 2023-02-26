@@ -41,7 +41,7 @@ function sendEmail(){
   Email.send({
   Host : "smtp.elasticemail.com",
   Username : "gauri.joshi@cumminscollege.in",
-  Password : "EDB4E3529AC35804907697712C65E6C667D9",
+  Password : "",
   To : 'gauri.joshi@cumminscollege.in',
   From : 'gauri.joshi@cumminscollege.in',
   Subject : "tried to contact from" + email.value,
