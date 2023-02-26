@@ -419,7 +419,7 @@ form textarea {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-   
+   order: initial;
   }
   .about-container {
     grid-template-columns: 1fr;
