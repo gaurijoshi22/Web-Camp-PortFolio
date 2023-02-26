@@ -415,7 +415,11 @@ form textarea {
     padding-left: 1.4rem;
   }
   .home-img {
-    order: initial;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
   }
   .about-container {
     grid-template-columns: 1fr;
